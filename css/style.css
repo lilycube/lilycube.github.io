@@ -56,6 +56,10 @@ img {
   object-fit: cover;
 }
 
+a {
+  color: #ffafcc;
+}
+
 .wrapper {
   max-width: 1150px;
   margin: auto;
@@ -162,8 +166,4 @@ footer {
   .description {
     font-size: 18px;
   }
-}
-
-a {
-  color: #ffafcc;
 }
