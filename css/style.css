@@ -33,7 +33,7 @@ main {
 }
 
 h1 {
-  font-family: 'Alegreya';
+  font-family: 'Alegreya', sans-serif;
   font-size: calc(1em + 3vw);
   padding-bottom: .67em;
   border-bottom: 1px solid;
@@ -127,7 +127,7 @@ footer div{
   display: flex;
   align-content: center;
   padding: 10px 20px;
-  color: rgb(255, 255, 255)9);
+  color: rgba(240, 231, 231, 0.782);
 }
 
 @media all and (max-width:700px) {
