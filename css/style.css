@@ -33,7 +33,7 @@ main {
 }
 
 h1 {
-  font-family: 'Alegreya', sans-serif;
+  font-family: sans-serif;
   font-size: calc(1em + 3vw);
   padding-bottom: .67em;
   border-bottom: 1px solid;
