@@ -33,7 +33,7 @@ main {
 }
 
 h1 {
-  font-family: sans-serif;
+  font-family: 'Alegreya', sans-serif;
   font-size: calc(1em + 3vw);
   padding-bottom: .67em;
   border-bottom: 1px solid;
@@ -68,7 +68,7 @@ a {
 }
 
 .bio {
-color: #ffffff;
+color: rgb(22, 22, 22);
 font-size: 34px;
 font-family: 'Josefin Slab', sans-serif;
 }
@@ -127,7 +127,7 @@ footer div{
   display: flex;
   align-content: center;
   padding: 10px 20px;
-  color: rgba(240, 231, 231, 0.782);
+  color: rgba(213, 83, 83, 0.75);
 }
 
 @media all and (max-width:700px) {
